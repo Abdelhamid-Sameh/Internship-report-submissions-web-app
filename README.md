@@ -1,10 +1,14 @@
 # Internship-report-submissions-web-app
 *Focus*  
 
-1- Internship application
-2- Enrollment
-3- Assessment
-4- Evaluation
+1- Internship application  
+
+2- Enrollment  
+
+3- Assessment  
+
+4- Evaluation  
+
 
 *Steps for  finding and completing an internship*
 1- Companies inform SCAD of internship opportunities, where internships offered can
