@@ -10,22 +10,28 @@
 4- Evaluation  
 
 
-*Steps for  finding and completing an internship*
+*Steps for  finding and completing an internship*  
+
 1- Companies inform SCAD of internship opportunities, where internships offered can
 have a duration that starts with one month and extends until 6 months. Internships
-can be paid or unpaid.
+can be paid or unpaid.  
+
 
 2- Students need to navigate announcements made by companies recruiting interns
-until they find a suitable opportunity and apply for it.
+until they find a suitable opportunity and apply for it.  
+
 
 3- Companies during the filtration process typically check CVs and conduct interviews
-before they offer internships to candidate students.
+before they offer internships to candidate students.  
+
 
 4- If accepted, students proceed with their intern jobs until they conclude the tasks
-required.
+required.  
+
 
 5- After the internship is successfully done, there are two types of evaluations that
-take place.
+take place.  
+
           
     - Companies evaluate the intern across several metrics and dimensions, and the
       intern evaluates the company in a free form feedback text.
