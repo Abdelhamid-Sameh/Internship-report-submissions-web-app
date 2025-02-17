@@ -39,26 +39,43 @@ take place.
           
     - Students can recommend the company to other interns, and they are required
       to provide input on the faculty courses that helped them the most during the
-      internship.
+      internship.  
+      
 
 6- The intern is then required to create a report designed by SCAD. The report has
 sections that provide an overview of the company’s business and market stand, the
 tasks performed by the intern, and the feedback about the company’s work environment 
-and the helpful courses, together with the student’s recommendation.
+and the helpful courses, together with the student’s recommendation.  
 
-*Stakeholders*
-1- Students 
-2- Faculty academics 
-3- companies
-4- SCAD office 
 
-*Modules*
-1- Profile and Identity
-      - Student Profiles and Customization
-      - Company Profiles and Customization
-2- Internship Search and Recruitment
-      - Internship Listings
-      - Internship Applications
-3- Evaluation and Reporting
-      - Company Evaluations
-      - Intern Reports
+*Stakeholders*  
+
+1- Students   
+
+2- Faculty academics   
+
+3- companies  
+
+4- SCAD office   
+
+
+*Modules*  
+
+1- Profile and Identity  
+
+      - Student Profiles and Customization  
+      
+      - Company Profiles and Customization  
+      
+2- Internship Search and Recruitment  
+
+      - Internship Listings  
+      
+      - Internship Applications  
+      
+3- Evaluation and Reporting  
+
+      - Company Evaluations  
+      
+      - Intern Reports  
+      
