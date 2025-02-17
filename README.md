@@ -1,5 +1,6 @@
 # Internship-report-submissions-web-app
-*Focus*\n
+*Focus*  
+
 1- Internship application
 2- Enrollment
 3- Assessment
