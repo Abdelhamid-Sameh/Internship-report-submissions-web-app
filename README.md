@@ -1,6 +1,7 @@
-**Use npm run dev to run the server**
-      email: "JohnDoe@gmail.com",
-      password: "johndoe123",
+**Use *npm run dev* to run the server** 
+ 
+      email: "JohnDoe@gmail.com",  
+      password: "johndoe123",  
       role: "Student",
 
       email: "JaneSmith@gmail.com",
